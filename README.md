@@ -47,8 +47,6 @@ The mobile layout of the site should look like this:
 
 ![Mobile Page](/public/assets/images/mobile.JPG)
 
-*(top part of page; the rest of the page is visible if one keeps scrolling)*
-
 ## Future Plans for Improvement
 * Add individual user accounts/logins.
 * Add an alert after a user saves an article that lets them know the article has been saved.
