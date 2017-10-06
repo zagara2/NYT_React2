@@ -51,3 +51,4 @@ The mobile layout of the site should look like this:
 * Add individual user accounts/logins.
 * Add an alert after a user saves an article that lets them know the article has been saved.
 * Make it so that clicking the "save" button on the same article multiple times will not cause it to apear multiple times in the "saved" section.
+* Add a little more stylistic CSS flair so the design is not so plain.
